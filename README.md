@@ -1,7 +1,7 @@
 
 <h1 align="center">
     <br>
-   - [iTask Mobile](https://web-itask.herokuapp.com/)
+   iTask Mobile
 </h1>
 
 
@@ -27,7 +27,7 @@ com integração web e mobile é possivel utilizar ele em qualquer local e com
 os dados sincronizados entre as plataformas
 </p>
 
-
+- [Donwload](https://drive.google.com/file/d/1JHBzWEeQMbIKGBJau84Y2aVmmOafvxW9/view?usp=sharing)
 
 
 ## :rocket: Technologies
@@ -36,6 +36,7 @@ This project was developed with the following technologies:
 
 -  [React-Native](https://reactnative.dev/docs/)
 -  [MONGO-DB](https://www.mongodb.com/cloud/atlas)
+
 
 
 
